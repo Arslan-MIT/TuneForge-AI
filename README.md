@@ -1,6 +1,6 @@
 # 🎵 TuneForge-AI
 
-**TuneForge-AI** is a Streamlit-based web app that generates complete song blueprints — including **lyrics**, **melody snippets**, and **suggested song titles** — based on your selected **mood**, **genre**, and **keywords**. It uses powerful AI APIs like GPT-4 and Stable Audio for creative content generation.
+**TuneForge-AI** is a Streamlit-based web app that generates complete song blueprints, including **lyrics**, **melody snippets**, and **suggested song titles**, based on your selected **mood**, **genre**, and **keywords**. It uses powerful AI APIs like GPT-4 and Stable Audio for creative content generation.
 
 ## 🚀 Features
 
@@ -118,7 +118,3 @@ MIT License
 Feel free to reach out via issues or fork and enhance the app!
 
 ```
-
----
-
-Would you like help auto-generating a logo or badge for this README too?
