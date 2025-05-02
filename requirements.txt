@@ -2,3 +2,5 @@ streamlit
 openai
 requests
 python-dotenv
+pydub
+ffmpeg-python
