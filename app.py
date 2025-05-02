@@ -434,7 +434,7 @@ if st.session_state.get('create_song', False):
 # --- Footer ---
 st.markdown("""
 <div style="text-align: center; margin-top: 3rem; color: #aaa; font-size: 0.9rem;">
-    <p>Created with ❤️ using AI Magic</p>
+    <p>Created by ❤️ Arslan🧑‍💻</p>
     <p>Note: Song generation may take 2-3 minutes</p>
 </div>
 """, unsafe_allow_html=True)
