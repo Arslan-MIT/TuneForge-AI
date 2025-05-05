@@ -108,7 +108,7 @@ st.markdown(custom_css, unsafe_allow_html=True)
 
 # --- API KEYS ---
 #AIML_API_KEY = os.getenv("AIML_API_KEY", "1ca28fad60a345b7bbd663b6ce22b143")
-AIML_API_KEY = "b0b72059f0ad4aba84e33a4eb840d1f5"
+AIML_API_KEY = "1fd0d1c81a4b4d57a84ccaee109d31a9"
 
 if not AIML_API_KEY:
     st.error("❌ AIML_API_KEY not found. Make sure it's set in key.env.")
